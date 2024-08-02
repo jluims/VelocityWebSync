@@ -40,4 +40,4 @@ inside the `plugins` folder. You will then have a few options you can configure.
 
 # Demonstration
 
-https://github.com/jluims/VelocityWebSync/raw/main/github/demo.webm.mp4
+https://github-production-user-asset-6210df.s3.amazonaws.com/72709760/354708154-f58f390f-f367-465e-93cf-de35f4bc14d1.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240802T194706Z&X-Amz-Expires=300&X-Amz-Signature=5b41eeeb37f17056ea576a41dd9ef672a965a23e25fbb2e988ecdb8bd572de75&X-Amz-SignedHeaders=host&actor_id=72709760&key_id=0&repo_id=837355260
