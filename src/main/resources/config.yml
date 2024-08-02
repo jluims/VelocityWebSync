@@ -1,0 +1,12 @@
+# The URL the plugin sends a POST request to
+# It must return a successful response code if it has received the data successfully
+webserver-url: http://localhost:1234/log
+
+# Whether the plugin should attempt to ping servers to check their online status
+should-ping-servers: true
+
+# If should-ping-servers is true, how long to wait before considering a server "offline"
+server-ping-timeout: 1
+
+# How often to send a request to the webserver (in seconds)
+update-interval: 1
